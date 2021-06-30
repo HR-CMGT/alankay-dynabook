@@ -5,6 +5,8 @@ body {
     color: rgb(33, 33, 33);
     font-family: 'Roboto Slab', serif;
     background-color: rgb(55, 121, 220);
+    width:100vw;
+    overflow-x:hidden;
 }
 
 main {
