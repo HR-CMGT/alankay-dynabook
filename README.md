@@ -11,29 +11,31 @@ https://hr-cmgt.github.io/alankay-dynabook/
 
 **HTML, CSS**
 
-- Header met `cover` afbeelding
-- Nav balk, fixed bij scrolling
-- Tekst opdelen in sections
-- Veel witruimte om de sections en teksten voor leesbaarheid
-- Semantische tags (`nav, header, section, footer`)
-- Socials in footer
+- Header, Nav balk, Sections [(Semantic HTML)](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - Afbeelding met caption voor bronvermelding
-- Flexbox gebruiken voor layout
+- Socials in footer
+
+**CSS**
+
+- [Kies een font](https://fonts.google.com) voor identiteit en leesbaarheid (eventueel apart font voor grote headers)
+- Veel witruimte om de sections en teksten voor leesbaarheid (`margin, padding, font-size`)
+- [Flex Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) gebruiken voor layout
+
+**RESPONSIVE CSS**
+
+- Layout past zich aan aan mobiele schermen
+- Gebruik `@media` query en relatieve eenheden (`%, vw, vh`)
 
 **JAVASCRIPT**
 
 - Buttons scrollen naar de juiste section
 - Scroll observer voor button highlight, image fade in
 
-**RESPONSIVE**
-
-- Layout past zich aan aan mobiele schermen
-- Gebruik `@media` query en relatieve eenheden (`%, vw, vh`)
-
 <br>
 
 ## Nice to haves
 
+- Gebruik [Font Awesome](https://fontawesome.com) voor Icons
 - [Hamburger menu](https://www.w3schools.com/howto/howto_js_mobile_navbar.asp) toevoegen op mobiel
 
 <br>
