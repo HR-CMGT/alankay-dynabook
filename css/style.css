@@ -5,8 +5,8 @@ body {
     color: rgb(33, 33, 33);
     font-family: 'Roboto Slab', serif;
     background-color: rgb(55, 121, 220);
-    width:100vw;
-    overflow-x:hidden;
+    width: 100vw;
+    overflow-x: hidden;
 }
 
 main {
@@ -20,6 +20,9 @@ nav {
     font-weight: bolder;
     font-size: 1.2em;
     width: 100vw;
+    position: absolute;
+    /*to prevent jumping after setting to fixed */
+    z-index: 10;
 }
 
 nav div {
@@ -28,7 +31,7 @@ nav div {
     text-align: center;
     background-color: rgb(55, 121, 220);
     cursor: pointer;
-    transition: all 0.4s ease-out;
+    transition: background-color 0.4s ease-out;
 }
 
 nav div:hover, nav div.selected {
@@ -82,18 +85,11 @@ section {
     margin: 20px;
 }
 
-.intro {
-    display: flex;
-}
-
-.intro>div:nth-child(1) {
+.intro img {
+    /* only use FLOAT for wrapping text anround an image */
+    float: left;
     width: 40%;
-    padding: 10px;
-}
-
-.intro>div:nth-child(2) {
-    width: 60%;
-    padding: 10px;
+    margin-right: 20px;
 }
 
 section.white {
@@ -103,6 +99,8 @@ section.white {
     margin-bottom: 220px;
     padding-bottom: 80px;
     background-color: white;
+    overflow: hidden;
+    overflow-wrap: break-word;
 }
 
 section.blue {
@@ -129,7 +127,7 @@ section img {
     transition: all 0.8s;
     transition-delay: 0.3s;
     opacity: 0;
-    transform: translateX(50px);
+    transform: translateY(50px);
 }
 
 .fadeIn {
@@ -155,9 +153,10 @@ footer {
     background-color: #1c4571;
     text-align: center;
     color: white;
-    padding-top: 40px;
-    height: 220px;
+    padding: 40px 20px;
+    min-height: 220px;
     display: block;
+    overflow: hidden;
 }
 
 .socials {
@@ -166,14 +165,40 @@ footer {
 }
 
 .socials div {
-    padding: 16px;
+    padding: 22px;
 }
 
 @media screen and (max-width: 550px) {
-    nav {
+    nav.sticky {
+        position: relative;
+    }
+    .intro {
         display: block;
     }
+    .intro img {
+        width: 100%;
+        float: none;
+    }
+    section h2 {
+        font-size: 2em;
+    }
+    section.white {
+        padding: 30px;
+        font-size: 1em;
+        margin-bottom: 120px;
+    }
+    section.blue {
+        margin-top: 100px;
+    }
+    nav {
+        display: block;
+        position: initial;
+    }
     header {
-        font-size: 1.6em;
+        font-size: 0.6em;
+        height: 50vh;
+    }
+    .socials {
+        display: block;
     }
 }

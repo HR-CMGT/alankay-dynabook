@@ -32,29 +32,35 @@ function init() {
 
 // observer callback
 function adjustVisibility(entries) {
-    //console.log('entry:', entry);
+    const mobileview = window.matchMedia("(max-width: 550px)")
+      
+    
     for(let entry of entries){
-        // fixed navbar once header is not visible anymore (todo extra room below header)
-        if (entry.target.nodeName === "HEADER") {
-            if (entry.intersectionRatio > 0) {
-                removeSelected()
-                navbar.classList.remove("sticky")
-            } else {
-                navbar.classList.add("sticky")
+        // on mobile we don't need button highlights and fixed navbar
+        if (!mobileview.matches) {
+            // fix the navbar if the header is not visible - not in mobile view
+            if (entry.target.nodeName === "HEADER") {
+                if (entry.intersectionRatio > 0) {
+                    removeSelected()
+                    navbar.classList.remove("sticky")
+                } else {
+                    navbar.classList.add("sticky")
+                }
+            }  
+            // highlight the corresponding nav button for a section
+            if (entry.target.nodeName === "SECTION") {
+                let i = sectionsArray.indexOf(entry.target)
+                if (entry.intersectionRatio > 0) {
+                    removeSelected()
+                    navButtons[i].classList.add("selected")
+                }
             }
         }
-        // fade in images from the right
-        if (entry.target.nodeName === "IMG" && entry.intersectionRatio > 0){
+
+        // fade in images when scrolling to them
+        if (entry.target.nodeName === "IMG" && entry.intersectionRatio > 0) {
             entry.target.classList.add("fadeIn")
             observer.unobserve(entry.target)
-        }
-        // highlight the corresponding nav button for a section
-        if (entry.target.nodeName === "SECTION") {
-            let i = sectionsArray.indexOf(entry.target)
-            if (entry.intersectionRatio > 0) {
-                removeSelected()
-                navButtons[i].classList.add("selected")
-            }
         }
     }
 }
