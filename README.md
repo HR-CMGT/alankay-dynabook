@@ -9,7 +9,7 @@ https://hr-cmgt.github.io/alankay-dynabook/
 <Br>
 <Br>
 
-**HTML, CSS**
+**HTML**
 
 - Header, Nav balk, Sections [(Semantic HTML)](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - Afbeelding met caption voor bronvermelding
