@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200;600&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    color: rgb(33, 33, 33);
+    font-family: 'Roboto Slab', serif;
+    background-color: rgb(55, 121, 220);
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+nav {
+    display: flex;
+    color: white;
+    font-weight: bolder;
+    font-size: 1.2em;
+    width: 100vw;
+}
+
+nav div {
+    padding: 10px 0;
+    flex-grow: 1;
+    text-align: center;
+    background-color: rgb(55, 121, 220);
+    cursor: pointer;
+    transition: all 0.4s ease-out;
+}
+
+nav div:hover, nav div.selected {
+    background-color: white;
+    color: rgb(55, 121, 220);
+}
+
+nav.sticky {
+    position: fixed;
+    top: 0;
+}
+
+div, section {
+    box-sizing: border-box;
+}
+
+figcaption {
+    font-style: italic;
+    opacity: 0.8;
+    font-size: 0.8em;
+    line-height: 1.2em;
+}
+
+h1 {
+    color: rgb(55, 121, 220);
+    margin: 0;
+    font-size: 4em;
+    font-weight: bolder;
+}
+
+h2 {
+    font-size: 3.3em;
+    margin: 0;
+    color: white;
+}
+
+p {
+    margin-bottom: 70px;
+}
+
+section.white a, section.white a:visited {
+    color: rgb(55, 121, 220);
+    font-weight: bold;
+}
+
+footer a, footer a:visited {
+    color: white;
+}
+
+section {
+    margin: 20px;
+}
+
+.intro {
+    display: flex;
+}
+
+.intro>div:nth-child(1) {
+    width: 40%;
+    padding: 10px;
+}
+
+.intro>div:nth-child(2) {
+    width: 60%;
+    padding: 10px;
+}
+
+section.white {
+    padding: 18px 54px;
+    font-size: 1.3em;
+    line-height: 1.8em;
+    margin-bottom: 220px;
+    padding-bottom: 80px;
+    background-color: white;
+}
+
+section.blue {
+    margin-top: 200px;
+    /* needed for scrollintoview */
+    padding-top: 60px;
+    background-color: transparent;
+}
+
+section.links {
+    font-size: 1.2em;
+    line-height: 1.4em;
+}
+
+section.links ul {
+    padding-left: 0;
+}
+
+img {
+    width: 100%;
+}
+
+section img {
+    transition: all 0.8s;
+    transition-delay: 0.3s;
+    opacity: 0;
+    transform: translateX(50px);
+}
+
+.fadeIn {
+    opacity: 1;
+    transform: none;
+}
+
+header {
+    text-align: center;
+    height: 80vh;
+    padding: 20px;
+    /* flex for vertical centering of h1 element */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* background image */
+    background-image: url(../images/alankay.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+footer {
+    background-color: #1c4571;
+    text-align: center;
+    color: white;
+    padding-top: 40px;
+    height: 220px;
+    display: block;
+}
+
+.socials {
+    display: flex;
+    justify-content: center;
+}
+
+.socials div {
+    padding: 16px;
+}
+
+@media screen and (max-width: 550px) {
+    nav {
+        display: block;
+    }
+    header {
+        font-size: 1.6em;
+    }
+}
