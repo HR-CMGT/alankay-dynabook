@@ -2,7 +2,7 @@
 
 Voorbeeld One Pager voor het vak Techniek Filosofie
 
-https://hr-cmgt.github.io/alankay-dynabook/
+Bekijk de pagina hier live: https://hr-cmgt.github.io/alankay-dynabook/
 
 🤟😎 Om zelf te beginnen met je onepager kan je de [startcode](./startcode) in deze repository gebruiken!
 
