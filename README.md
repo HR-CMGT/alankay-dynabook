@@ -11,6 +11,7 @@ Voorbeeld One Pager voor het vak Techniek Filosofie. Bekijk de pagina hier live:
 - Afbeelding met caption voor bronvermelding
 - Socials in footer
 - Links in dezelfde pagina met `<a>` tags.
+- SEO / Search engine tags
 
 **CSS**
 
@@ -22,6 +23,7 @@ Voorbeeld One Pager voor het vak Techniek Filosofie. Bekijk de pagina hier live:
 
 **RESPONSIVE CSS**
 
+- Meta viewport tag!
 - Layout past zich aan aan mobiele schermen
 - Gebruik `@media` query en relatieve eenheden (`%, vw, vh`)
 
