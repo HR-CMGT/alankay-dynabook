@@ -16,12 +16,14 @@ Voorbeeld One Pager voor het vak Techniek Filosofie. Bekijk de pagina hier live:
 
 **CSS**
 
-- [Basis CSS](https://www.w3schools.com/cssref/css_default_values.asp) van elementen bekijken 
-- Identiteit: kies een [font](https://fonts.google.com) en [kleurpalet](https://coolors.co) dat bij het onderwerp past. Je kan ook twee fonts kiezen: een fancy font voor de headers, en een rustig font voor de body tekst.
+- [Basis CSS](https://www.w3schools.com/cssref/css_default_values.asp) van elementen bekijken.
+- Elementen selecteren met tags, id's en classes. Geneste elementen selecteren.
+- Identiteit ontwerpen: kies een [font](https://fonts.google.com) en [kleurpalet](https://coolors.co) dat bij het onderwerp past. Je kan ook twee fonts kiezen: een fancy font voor de headers, en een rustig font voor de body tekst.
 - Begin met een mooie grote header foto. Gebruik `cover` om achtergrondafbeelding te laten schalen
-- Veel witruimte om de sections en teksten voor leesbaarheid (`margin, padding, font-size`)
-- Maak foto's passend met `object-fit`
-- [Flex Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) gebruiken voor layout
+- Witruimte maken voor de sections en teksten voor leesbaarheid (`margin, padding, font-size`)
+- Maak foto's passend met `object-fit`.
+- Het verschil tussen `%` en `vw, vh`.
+- [Flex Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) gebruiken om elementen naast elkaar te zetten.
 
 **RESPONSIVE CSS**
 
