@@ -44,6 +44,7 @@ Bekijk de pagina hier live: https://hr-cmgt.github.io/alankay-dynabook/
 
 - [Semantic HTML tags](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - [Image Caption](https://www.w3schools.com/tags/tag_figcaption.asp)
+- [Image Object Fit](https://www.w3schools.com/css/css3_object-fit.asp)
 - [Flex Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Media Query](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
 - [Mobile Hamburger Menu](https://www.w3schools.com/howto/howto_js_mobile_navbar.asp)
