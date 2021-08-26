@@ -1,10 +1,6 @@
 # Techniek Filosofie Onepager
 
-Voorbeeld One Pager voor het vak Techniek Filosofie
-
-Bekijk de pagina hier live: https://hr-cmgt.github.io/alankay-dynabook/
-
-🤟😎 Om zelf te beginnen met je onepager kan je de [startcode](./startcode) in deze repository gebruiken!
+Voorbeeld One Pager voor het vak Techniek Filosofie. Bekijk de pagina hier live: https://hr-cmgt.github.io/alankay-dynabook/. 🤟😎 Om zelf te beginnen met je onepager kan je de [startcode](./startcode) in deze repository gebruiken!
 
 <Br>
 <Br>
