@@ -12,9 +12,11 @@ Voorbeeld One Pager voor het vak Techniek Filosofie. Bekijk de pagina hier live:
 - Socials in footer
 - Links in dezelfde pagina met `<a>` tags.
 - Meta tags (SEO / social)
+- Het verschil tussen block en inline elements
 
 **CSS**
 
+- [Basis CSS](https://www.w3schools.com/cssref/css_default_values.asp) van elementen bekijken 
 - Identiteit: kies een [font](https://fonts.google.com) en [kleurpalet](https://coolors.co) dat bij het onderwerp past. Je kan ook twee fonts kiezen: een fancy font voor de headers, en een rustig font voor de body tekst.
 - Begin met een mooie grote header foto. Gebruik `cover` om achtergrondafbeelding te laten schalen
 - Veel witruimte om de sections en teksten voor leesbaarheid (`margin, padding, font-size`)
@@ -29,15 +31,6 @@ Voorbeeld One Pager voor het vak Techniek Filosofie. Bekijk de pagina hier live:
 
 <br>
 
-## Nice to haves
-
-- Gebruik [Font Awesome](https://fontawesome.com) voor Icons
-- [Hamburger menu](https://www.w3schools.com/howto/howto_js_mobile_navbar.asp) toevoegen op mobiel
-- Javascript buttons scrollen naar de juiste section
-- Javascript Scroll observer voor button highlight en image fade in
-
-<br>
-
 ## Links
 
 - [W3 HTML Validator](https://validator.w3.org)
@@ -46,6 +39,10 @@ Voorbeeld One Pager voor het vak Techniek Filosofie. Bekijk de pagina hier live:
 - [Image Object Fit](https://www.w3schools.com/css/css3_object-fit.asp)
 - [Flex Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Media Query](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
+- [Test je site op verschillende devices met Responsively](https://responsively.app)
+- [Ontwerp een responsive site met Figma](https://www.figma.com)
 - [Mobile Hamburger Menu](https://www.w3schools.com/howto/howto_js_mobile_navbar.asp)
 - [SEO Meta Tags](https://www.searchenginewatch.com/2018/04/04/a-quick-and-easy-guide-to-meta-tags-in-seo/)
 - [Social Media Media Tags](https://www.kontentino.com/blog/social-media-meta-tags-a-complete-guide/)
+- [Fade in bij scrolling met de intersection observer](https://dev.to/jslim/fading-up-sections-using-intersection-observer-3fhj)
+- Gebruik [Font Awesome](https://fontawesome.com) voor Icons
