@@ -10,9 +10,8 @@ Voorbeeld One Pager voor het vak Techniek Filosofie. Bekijk de pagina hier live:
 - Header, Nav balk, Sections [(Semantic HTML)](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - Afbeelding met caption voor bronvermelding
 - Socials in footer
-- Meta tags
 - Links in dezelfde pagina met `<a>` tags.
-- Meta tags
+- Meta tags (SEO / social)
 
 **CSS**
 
