@@ -17,7 +17,7 @@ Bekijk de pagina hier live: https://hr-cmgt.github.io/alankay-dynabook/
 
 **CSS**
 
-- [Kies een font](https://fonts.google.com) voor identiteit en leesbaarheid (eventueel apart font voor grote headers)
+- Identiteit: kies een [font](https://fonts.google.com) en [kleurpalet](https://coolors.co) dat bij het onderwerp past. Je kan ook twee fonts kiezen: een fancy font voor de headers, en een rustig font voor de body tekst.
 - Gebruik `cover` om achtergrondafbeelding te laten schalen
 - Veel witruimte om de sections en teksten voor leesbaarheid (`margin, padding, font-size`)
 - [Flex Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) gebruiken voor layout
