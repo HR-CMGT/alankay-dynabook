@@ -14,6 +14,7 @@ Bekijk de pagina hier live: https://hr-cmgt.github.io/alankay-dynabook/
 - Header, Nav balk, Sections [(Semantic HTML)](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - Afbeelding met caption voor bronvermelding
 - Socials in footer
+- Links in dezelfde pagina met `<a>` tags.
 
 **CSS**
 
@@ -28,17 +29,14 @@ Bekijk de pagina hier live: https://hr-cmgt.github.io/alankay-dynabook/
 - Layout past zich aan aan mobiele schermen
 - Gebruik `@media` query en relatieve eenheden (`%, vw, vh`)
 
-**JAVASCRIPT**
-
-- Buttons scrollen naar de juiste section
-- Scroll observer voor button highlight, image fade in
-
 <br>
 
 ## Nice to haves
 
 - Gebruik [Font Awesome](https://fontawesome.com) voor Icons
 - [Hamburger menu](https://www.w3schools.com/howto/howto_js_mobile_navbar.asp) toevoegen op mobiel
+- Javascript buttons scrollen naar de juiste section
+- Javascript Scroll observer voor button highlight en image fade in
 
 <br>
 
