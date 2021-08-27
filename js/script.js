@@ -9,13 +9,7 @@ const observer = new IntersectionObserver(entries => adjustVisibility(entries))
 
 
 function init() {
-    // nav button click listeners
-    for(let [i, btn] of navButtons.entries()){
-        btn.addEventListener("click", ()=> {
-            sectionTitles[i].scrollIntoView({ behavior: "smooth", block: "start"})
-        })
-    }
-    // for sticky navbar
+    // sticky navbar
     observer.observe(header)
 
     // to fade in images after scrolling
