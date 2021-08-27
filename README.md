@@ -2,8 +2,23 @@
 
 Voorbeeld One Pager voor het vak Techniek Filosofie. Bekijk de pagina hier live: https://hr-cmgt.github.io/alankay-dynabook/. 🤟😎 Om zelf te beginnen met je onepager kan je de [startcode](./startcode) in deze repository gebruiken!
 
+## HTML LES 1 
+
+- Start met een leeg static html project op [https://codesandbox.io](https://codesandbox.io)
+- Beginnen met de basics van HTML tags en default CSS
+
+## HTML LES 2
+
+- Blog artikel bouwen met hulp van deze readme en het voorbeeld blog over Alan Kay
+
+## HTML LES 3
+
+- Inhoud blog in orde maken voor Techniek Filosofie
+
 <Br>
 <Br>
+  
+## HTML en CSS onderwerpen
 
 **HTML**
 
