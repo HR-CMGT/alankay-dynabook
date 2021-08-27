@@ -1,6 +1,6 @@
 # Techniek Filosofie Onepager
 
-Voorbeeld One Pager voor het vak Techniek Filosofie. Bekijk de pagina hier live: https://hr-cmgt.github.io/alankay-dynabook/. 🤟😎 Om zelf te beginnen met je onepager kan je de [startcode](./startcode) in deze repository gebruiken!
+Voor techniek filosifie ga je in html+css een onepager bouwen over jouw onderwerp. Je krijgt drie workshops html+css, de materialen daarvoor vind je in deze repository.
 
 ## HTML LES 1 
 
@@ -10,6 +10,7 @@ Voorbeeld One Pager voor het vak Techniek Filosofie. Bekijk de pagina hier live:
 ## HTML LES 2
 
 - Blog artikel bouwen met hulp van deze readme en het voorbeeld blog over Alan Kay
+- Voorbeeld blog: https://hr-cmgt.github.io/alankay-dynabook/
 
 ## HTML LES 3
 
@@ -51,6 +52,7 @@ Voorbeeld One Pager voor het vak Techniek Filosofie. Bekijk de pagina hier live:
 ## Links
 
 - [W3 HTML Validator](https://validator.w3.org)
+- [startcode](./startcode) voor een blog artikel
 - [Semantic HTML tags](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - [Image Caption](https://www.w3schools.com/tags/tag_figcaption.asp)
 - [Image Object Fit](https://www.w3schools.com/css/css3_object-fit.asp)
