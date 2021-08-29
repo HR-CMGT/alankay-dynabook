@@ -13,9 +13,9 @@ Voor techniek filosifie ga je in html+css een onepager bouwen over jouw onderwer
 ## HTML LES 1 
 
 - Start met een leeg static html project op [https://codesandbox.io](https://codesandbox.io)
-- Beginnen met de basics van HTML tags en default CSS
-- a, img, h1, p, br, head, body, div
-- inline, block, colors, units, 
+- Beginnen met de basics van HTML tags. Default CSS bekijken in de inspector
+- `a, img, h1, p, br, head, body, div`
+- `inline, block, colors, units, font`
 
 <br>
 <br>
