@@ -2,24 +2,26 @@
 
 Voor techniek filosifie ga je in html+css een onepager bouwen over jouw onderwerp. Je krijgt drie workshops html+css, de materialen daarvoor vind je in deze repository.
 
+- Les 1: basics van html en css
+- Les 2: een responsive blog bouwen met semantische elementen
+- Les 3: een onderzoeksartikel online zetten
+
+<br>
+<br>
+<br>
+
 ## HTML LES 1 
 
 - Start met een leeg static html project op [https://codesandbox.io](https://codesandbox.io)
 - Beginnen met de basics van HTML tags en default CSS
+- a, img, h1, p, br, head, body, div
+- inline, block, colors, units, 
+
+<br>
+<br>
+<br>
 
 ## HTML LES 2
-
-- Blog artikel bouwen met hulp van deze readme en het voorbeeld blog over Alan Kay
-- Voorbeeld blog: https://hr-cmgt.github.io/alankay-dynabook/
-
-## HTML LES 3
-
-- Inhoud blog in orde maken voor Techniek Filosofie
-
-<Br>
-<Br>
-  
-## HTML en CSS onderwerpen
 
 **HTML**
 
@@ -47,6 +49,16 @@ Voor techniek filosifie ga je in html+css een onepager bouwen over jouw onderwer
 - Layout past zich aan aan mobiele schermen
 - Gebruik `@media` query en relatieve eenheden (`%, vw, vh`)
 
+<br>
+<br>
+<br>
+
+## HTML LES 3
+
+- Inhoud blog in orde maken voor Techniek Filosofie
+
+<br>
+<br>
 <br>
 
 ## Links
