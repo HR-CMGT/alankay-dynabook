@@ -17,7 +17,7 @@ Voor techniek filosifie ga je in html+css een onepager bouwen over jouw onderwer
 - Beginnen met de basics van HTML tags. Default CSS bekijken in de inspector
 - `a, img, h1, p, br, head, body, div`
 - `inline, block, colors, units, font`
-- Uitleg github repository aanmaken / forken, pages aanmaken met leeg startproject
+- Uitleg github pages. Begin met **use this template** in dit [start project](https://github.com/HR-CMGT/html-startproject)
 - [Stackoverflow](https://stackoverflow.com) (let op datum van de posts). [dev.to](https://dev.to)
 
 <br>
