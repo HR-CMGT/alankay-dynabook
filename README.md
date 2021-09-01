@@ -13,10 +13,12 @@ Voor techniek filosifie ga je in html+css een onepager bouwen over jouw onderwer
 ## HTML LES 1 
 
 - Start met een leeg static html project op [https://codesandbox.io](https://codesandbox.io)
+- Wat is [Document Flow ?](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
 - Beginnen met de basics van HTML tags. Default CSS bekijken in de inspector
 - `a, img, h1, p, br, head, body, div`
 - `inline, block, colors, units, font`
-- Uitleg github pages met leeg startproject. (zorg dat je een github account hebt).
+- Uitleg github pages met leeg startproject
+- Stackoverflow 2021, dev.to
 
 <br>
 <br>
@@ -67,6 +69,7 @@ Voor techniek filosifie ga je in html+css een onepager bouwen over jouw onderwer
 - [W3 HTML Validator](https://validator.w3.org)
 - [startcode](./startcode) voor een blog artikel
 - [Semantic HTML tags](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- [Learn CSS](https://web.dev/learn/css/)
 - [Image Caption](https://www.w3schools.com/tags/tag_figcaption.asp)
 - [Image Object Fit](https://www.w3schools.com/css/css3_object-fit.asp)
 - [Flex Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
