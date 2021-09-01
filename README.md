@@ -68,7 +68,6 @@ Voor techniek filosifie ga je in html+css een onepager bouwen over jouw onderwer
 ## Links
 
 - [W3 HTML Validator](https://validator.w3.org)
-- [startcode](./startcode) voor een blog artikel
 - [Semantic HTML tags](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - [Learn CSS](https://web.dev/learn/css/)
 - [Image Caption](https://www.w3schools.com/tags/tag_figcaption.asp)
