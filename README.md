@@ -67,6 +67,7 @@ Voor techniek filosifie ga je in html+css een onepager bouwen over jouw onderwer
 
 ## Links
 
+- [Startcode voor een leeg HTML project](https://github.com/HR-CMGT/html-startproject/)
 - [W3 HTML Validator](https://validator.w3.org)
 - [Semantic HTML tags](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - [Learn CSS](https://web.dev/learn/css/)
