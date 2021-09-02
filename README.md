@@ -21,7 +21,10 @@ Voor techniek filosifie ga je in html+css een onepager bouwen over jouw onderwer
 - Divs als containers voor tekst en afbeeldingen.
 - Wat is [Document Flow ?](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow) en waarom je geen absolute positioning gebruikt.
 - Toegankelijkheid, SEO en responsiveness. Testen met W3 Validator.
-- Uitleg github pages. Begin met **use this template** in dit [start project](https://github.com/HR-CMGT/html-startproject)
+
+### Github Pages opzetten
+
+- Uitleg github pages. Klik op de knop **use this template** in dit [start project](https://github.com/HR-CMGT/html-startproject)
 - [Stackoverflow](https://stackoverflow.com) (let op datum van de posts). [dev.to](https://dev.to)
 
 <br>
