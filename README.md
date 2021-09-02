@@ -12,13 +12,16 @@ Voor techniek filosifie ga je in html+css een onepager bouwen over jouw onderwer
 
 ## HTML LES 1 
 
+![server](./images/server.png)
+
+- Wat is een web server?
 - Start met een leeg static html project op [https://codesandbox.io](https://codesandbox.io)
-- Beginnen met de basics van HTML tags. Default CSS bekijken in de inspector
-- `a, img, h1, p, br, head, body, div`
-- `inline, block, colors, units, font`
+- HTML tags voor basic layout: `a, img, h1, p, br`
+- Divs als containers voor tekst en afbeeldingen.
+- Default CSS bekijken in de inspector
 - Block heeft hoogte en breedte. Blocks worden onder elkaar geplaatst.
 - Inline heeft geen hoogte en breedte en wordt naast elkaar geplaatst.
-- Divs als containers voor tekst en afbeeldingen.
+- CSS basics: `width, height, margin, padding, border, color, units, font-family (sans, sans-serif, mono)`
 - Wat is [Document Flow ?](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow) en waarom je geen absolute positioning gebruikt.
 - Toegankelijkheid, SEO en responsiveness. Testen met W3 Validator.
 
