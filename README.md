@@ -37,7 +37,6 @@ Voor techniek filosifie ga je in html+css een onepager bouwen over jouw onderwer
 - Socials in footer
 - Links in dezelfde pagina met `<a>` tags.
 - Meta tags (SEO / social)
-- Het verschil tussen block en inline elements
 
 **CSS**
 
@@ -82,6 +81,6 @@ Voor techniek filosifie ga je in html+css een onepager bouwen over jouw onderwer
 - [Ontwerp een responsive site met Figma](https://www.figma.com)
 - [Mobile Hamburger Menu](https://www.w3schools.com/howto/howto_js_mobile_navbar.asp)
 - [SEO Meta Tags](https://www.searchenginewatch.com/2018/04/04/a-quick-and-easy-guide-to-meta-tags-in-seo/)
-- [Social Media Media Tags](https://www.kontentino.com/blog/social-media-meta-tags-a-complete-guide/)
+- [Social Media Meta Tags](https://www.kontentino.com/blog/social-media-meta-tags-a-complete-guide/)
 - [Fade in bij scrolling met de intersection observer](https://dev.to/jslim/fading-up-sections-using-intersection-observer-3fhj)
 - Gebruik [Font Awesome](https://fontawesome.com) voor Icons
