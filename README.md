@@ -13,11 +13,14 @@ Voor techniek filosifie ga je in html+css een onepager bouwen over jouw onderwer
 ## HTML LES 1 
 
 - Start met een leeg static html project op [https://codesandbox.io](https://codesandbox.io)
-- Wat is [Document Flow ?](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
 - Beginnen met de basics van HTML tags. Default CSS bekijken in de inspector
 - `a, img, h1, p, br, head, body, div`
 - `inline, block, colors, units, font`
+- Block heeft hoogte en breedte. Blocks worden onder elkaar geplaatst.
+- Inline heeft geen hoogte en breedte en wordt naast elkaar geplaatst.
 - Divs als containers voor tekst en afbeeldingen.
+- Wat is [Document Flow ?](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow) en waarom je geen absolute positioning gebruikt.
+- Toegankelijkheid, SEO en responsiveness. Testen met W3 Validator.
 - Uitleg github pages. Begin met **use this template** in dit [start project](https://github.com/HR-CMGT/html-startproject)
 - [Stackoverflow](https://stackoverflow.com) (let op datum van de posts). [dev.to](https://dev.to)
 
