@@ -15,7 +15,7 @@ Voor techniek filosifie ga je in html+css een onepager bouwen over jouw onderwer
 ![server](./images/server.png)
 
 - Wat is een web server?
-- Start met een leeg static html project op [glitch.com](https://glitch.com) of [https://codesandbox.io](https://codesandbox.io)
+- Maak een [kopie van dit glitch project](https://glitch.com/edit/#!/cmgt-start)
 - HTML tags voor basic layout: `a, img, h1, p, br`
 - Divs als containers voor tekst en afbeeldingen.
 - Default CSS bekijken in de inspector
