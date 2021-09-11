@@ -15,7 +15,7 @@ Voor techniek filosifie ga je in html+css een onepager bouwen over jouw onderwer
 ![server](./images/server.png)
 
 - Wat is een web server?
-- Maak een kopie van dit glitch project: [https://glitch.com/edit/#!/cmgt-start](https://glitch.com/edit/#!/cmgt-start)
+- Ga naar dit glitch project en klik **remix to edit**  [https://glitch.com/edit/#!/cmgt-start](https://glitch.com/edit/#!/cmgt-start)
 - HTML tags voor basic layout: `a, img, h1, p, br`
 - Divs als containers voor tekst en afbeeldingen.
 - Default CSS bekijken in de inspector
