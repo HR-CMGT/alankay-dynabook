@@ -15,20 +15,17 @@ Voor techniek filosifie ga je in html+css een onepager bouwen over jouw onderwer
 ![server](./images/server.png)
 
 - Wat is een web server?
-- Ga naar dit glitch project en klik **remix to edit**  [https://glitch.com/edit/#!/cmgt-start](https://glitch.com/edit/#!/cmgt-start)
+- Ga naar dit glitch project en klik **remix to edit**: https://glitch.com/edit/#!/cmgt-start
 - HTML tags voor basic layout: `a, img, h1, p, br`
 - Divs als containers voor tekst en afbeeldingen.
 - Default CSS bekijken in de inspector
 - Block heeft hoogte en breedte. Blocks worden onder elkaar geplaatst.
 - Inline heeft geen hoogte en breedte en wordt naast elkaar geplaatst.
+- Elementen selecteren met tags, id's en classes. 
 - CSS basics: `width, height, margin, padding, border, color, units, font-family (sans, sans-serif, mono)`
-- Wat is [Document Flow ?](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow) en waarom je geen absolute positioning gebruikt.
-- Toegankelijkheid, SEO en responsiveness. Testen met W3 Validator.
-
-### Github Pages opzetten
-
-- Uitleg github pages. Klik op de knop **use this template** in dit [start project](https://github.com/HR-CMGT/html-startproject)
-- [Stackoverflow](https://stackoverflow.com) (let op datum van de posts). [dev.to](https://dev.to)
+- Units: `px`, `em`, `%`, `vw, vh`.
+- Uitleg github pages. [(start project)](https://github.com/HR-CMGT/html-startproject)
+- Finished files: https://glitch.com/edit/#!/cmgt-finished
 
 <br>
 <br>
@@ -38,21 +35,22 @@ Voor techniek filosifie ga je in html+css een onepager bouwen over jouw onderwer
 
 **HTML**
 
-- Header, Nav balk, Sections [(Semantic HTML)](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- Header, Nav balk, Sections, Footer [(Semantic HTML)](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- Centered text. Drie divs naast elkaar met flex.
 - Afbeelding met caption voor bronvermelding
 - Socials in footer
 - Links in dezelfde pagina met `<a>` tags.
 - Meta tags (SEO / social)
+- Toegankelijkheid, SEO en responsiveness. Testen met W3 Validator.
 
 **CSS**
 
-- [Basis CSS](https://www.w3schools.com/cssref/css_default_values.asp) van elementen bekijken.
-- Elementen selecteren met tags, id's en classes. Geneste elementen selecteren.
+- Geneste elementen selecteren.
 - Identiteit ontwerpen: kies een [font](https://fonts.google.com) en [kleurpalet](https://coolors.co) dat bij het onderwerp past. Je kan ook twee fonts kiezen: een fancy font voor de headers, en een rustig font voor de body tekst.
-- Begin met een mooie grote header foto. Gebruik `cover` om achtergrondafbeelding te laten schalen
+- Grote header foto met `cover` om achtergrondafbeelding te laten schalen
 - Witruimte maken voor de sections en teksten voor leesbaarheid (`margin, padding, font-size`)
 - Maak foto's passend met `object-fit`.
-- Het verschil tussen `%` en `vw, vh`.
+
 - [Flex Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) gebruiken om elementen naast elkaar te zetten.
 
 **RESPONSIVE CSS**
@@ -76,6 +74,7 @@ Voor techniek filosifie ga je in html+css een onepager bouwen over jouw onderwer
 ## Links
 
 - [Startcode voor een leeg HTML project](https://github.com/HR-CMGT/html-startproject/)
+- [Basis CSS](https://www.w3schools.com/cssref/css_default_values.asp) van elementen bekijken.
 - [W3 HTML Validator](https://validator.w3.org)
 - [Semantic HTML tags](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - [Learn CSS](https://web.dev/learn/css/)
