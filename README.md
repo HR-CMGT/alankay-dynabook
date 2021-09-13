@@ -50,7 +50,6 @@ Voor techniek filosifie ga je in html+css een onepager bouwen over jouw onderwer
 - Grote header foto met `cover` om achtergrondafbeelding te laten schalen
 - Witruimte maken voor de sections en teksten voor leesbaarheid (`margin, padding, font-size`)
 - Maak foto's passend met `object-fit`.
-
 - [Flex Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) gebruiken om elementen naast elkaar te zetten.
 
 **RESPONSIVE CSS**
