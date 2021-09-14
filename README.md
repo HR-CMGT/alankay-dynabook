@@ -35,7 +35,7 @@ Voor techniek filosifie ga je in html+css een onepager bouwen over jouw onderwer
 
 Semantic tags:
 
-![semantic](./images/semantic.png)
+<img src="./images/semantic.png" width="300">
 
 **HTML**
 
