@@ -33,6 +33,10 @@ Voor techniek filosifie ga je in html+css een onepager bouwen over jouw onderwer
 
 ## HTML LES 2
 
+Semantic tags:
+
+![semantic](./images/semantic.png)
+
 **HTML**
 
 - Header, Nav balk, Sections, Footer [(Semantic HTML)](https://www.w3schools.com/html/html5_semantic_elements.asp)
