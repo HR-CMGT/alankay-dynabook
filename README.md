@@ -102,4 +102,5 @@ Semantic tags:
 - [SEO Meta Tags](https://www.searchenginewatch.com/2018/04/04/a-quick-and-easy-guide-to-meta-tags-in-seo/)
 - [Social Media Meta Tags](https://www.kontentino.com/blog/social-media-meta-tags-a-complete-guide/)
 - Gebruik [Font Awesome](https://fontawesome.com) voor Icons
+- [Dark Mode toevoegen aan je site](https://youtu.be/6YrOGKmGTCY)
 - [Javascript wizardry: fade in bij scrolling met de intersection observer](https://dev.to/jslim/fading-up-sections-using-intersection-observer-3fhj)
