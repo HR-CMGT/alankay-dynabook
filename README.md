@@ -8,7 +8,7 @@ Voor techniek filosifie ga je in html+css een onepager bouwen over jouw onderwer
 
 Klik de "Remix on glitch" button om zelf aan de Alan Kay site te sleutelen!
 
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/https://github.com/HR-CMGT//alankay-dynabook)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/HR-CMGT//alankay-dynabook)
 
 <br>
 <br>
