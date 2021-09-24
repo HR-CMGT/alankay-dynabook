@@ -60,12 +60,6 @@ Semantic tags:
 - Maak foto's passend met `object-fit`.
 - [Flex Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) gebruiken om elementen naast elkaar te zetten.
 
-**RESPONSIVE CSS**
-
-- Meta viewport tag!
-- Layout past zich aan aan mobiele schermen
-- Gebruik `@media` query en relatieve eenheden (`%, vw, vh`)
-
 <br>
 <br>
 <br>
@@ -74,11 +68,26 @@ Semantic tags:
 
 - Inhoud blog in orde maken voor Techniek Filosofie
 
+### Responive, accessible
+
+- Meta viewport tag
+- Social meta tags (facebook, twitter)
+- Alt tags
+- @Media query
+- W3 Validator
+
+### Cool stuff
+
+- Font Awesome Icons
+- Video tag, video object fit cover, audio tag
+- CSS Animation, Transition
+- A links as buttons
+
 <br>
 <br>
 <br>
 
-## Links
+## Links for fun and profit
 
 - [Startcode voor een leeg HTML project](https://github.com/HR-CMGT/html-startproject/)
 - [Basis CSS](https://www.w3schools.com/cssref/css_default_values.asp) van elementen bekijken.
@@ -94,5 +103,5 @@ Semantic tags:
 - [Mobile Hamburger Menu](https://www.w3schools.com/howto/howto_js_mobile_navbar.asp)
 - [SEO Meta Tags](https://www.searchenginewatch.com/2018/04/04/a-quick-and-easy-guide-to-meta-tags-in-seo/)
 - [Social Media Meta Tags](https://www.kontentino.com/blog/social-media-meta-tags-a-complete-guide/)
-- [Fade in bij scrolling met de intersection observer](https://dev.to/jslim/fading-up-sections-using-intersection-observer-3fhj)
 - Gebruik [Font Awesome](https://fontawesome.com) voor Icons
+- [Javascript wizardry: fade in bij scrolling met de intersection observer](https://dev.to/jslim/fading-up-sections-using-intersection-observer-3fhj)
