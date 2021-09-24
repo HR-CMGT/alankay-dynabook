@@ -48,8 +48,6 @@ Semantic tags:
 - Afbeelding met caption voor bronvermelding
 - Socials in footer
 - Links in dezelfde pagina met `<a>` tags.
-- Meta tags (SEO / social)
-- Toegankelijkheid, SEO en responsiveness. Testen met W3 Validator.
 
 **CSS**
 
