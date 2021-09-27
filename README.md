@@ -100,6 +100,7 @@ Semantic tags:
 - [W3 HTML Validator](https://validator.w3.org)
 - [Semantic HTML tags](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - [Learn CSS](https://web.dev/learn/css/)
+- [Dark Mode](https://css-tricks.com/dark-modes-with-css/)
 - [Image Caption](https://www.w3schools.com/tags/tag_figcaption.asp)
 - [Image Object Fit](https://www.w3schools.com/css/css3_object-fit.asp)
 - [Flex Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
