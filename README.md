@@ -6,7 +6,7 @@ Voor techniek filosifie ga je in html+css een onepager bouwen over jouw onderwer
 - Les 2: een responsive blog bouwen met semantische elementen
 - Les 3: een onderzoeksartikel online zetten
 
-Klik de "Remix on glitch" button om zelf aan de Alan Kay site te sleutelen!
+Klik [Remix on glitch](https://glitch.com/edit/#!/import/github/HR-CMGT/alankay-dynabook) om zelf aan de Alan Kay site te sleutelen!
 
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/HR-CMGT/alankay-dynabook)
 
