@@ -19,7 +19,6 @@ Klik de "Remix on glitch" button om zelf aan de Alan Kay site te sleutelen!
 ![server](./images/server.png)
 
 - Wat is een web server?
-- Ga naar dit glitch project en klik **remix to edit**: https://glitch.com/edit/#!/cmgt-start
 - HTML tags voor basic layout: `a, img, h1, p, br`
 - Divs als containers voor tekst en afbeeldingen.
 - Default CSS bekijken in de inspector
@@ -29,7 +28,11 @@ Klik de "Remix on glitch" button om zelf aan de Alan Kay site te sleutelen!
 - CSS basics: `width, height, margin, padding, border, color, units, font-family (sans, sans-serif, mono)`
 - Units: `px`, `em`, `%`, `vw, vh`.
 - Uitleg github pages. [(start project)](https://github.com/HR-CMGT/html-startproject)
-- Finished files: https://glitch.com/edit/#!/cmgt-finished
+
+**Voorbeeldcode**
+
+- Start project: https://glitch.com/edit/#!/cmgt-start
+- Finished project: https://glitch.com/edit/#!/cmgt-finished
 
 <br>
 <br>
@@ -57,6 +60,10 @@ Semantic tags:
 - Witruimte maken voor de sections en teksten voor leesbaarheid (`margin, padding, font-size`)
 - Maak foto's passend met `object-fit`.
 - [Flex Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) gebruiken om elementen naast elkaar te zetten.
+
+**Voorbeeld code**
+- [Start project](https://glitch.com/edit/#!/cmgt-html-les2)
+- [Finished project](https://glitch.com/edit/#!/cmgt-html-les2-finished)
 
 <br>
 <br>
