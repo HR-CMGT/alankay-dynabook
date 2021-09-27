@@ -76,6 +76,7 @@ Semantic tags:
 ### Responive, accessible
 
 - Meta viewport tag
+- Dark Mode
 - Social meta tags (facebook, twitter)
 - Alt tags
 - @Media query
