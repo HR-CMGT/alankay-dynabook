@@ -31,6 +31,7 @@ nav {
 }
 
 /* by making a tag a block, the whole div becomes clickable  */
+
 nav a {
     color: white;
     display: block;
@@ -221,4 +222,10 @@ footer {
     .socials {
         display: block;
     }
+}
+
+/* dark color scheme */
+
+@media (prefers-color-scheme: dark) {
+    body {}
 }
