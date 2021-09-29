@@ -105,6 +105,7 @@ Semantic tags:
 - [Image Object Fit](https://www.w3schools.com/css/css3_object-fit.asp)
 - [Flex Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Media Query](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
+- [Sticky Navbar](https://markoskon.com/fixed-navbar-on-top-with-position-sticky/)
 - [Test je site op verschillende devices met Responsively](https://responsively.app)
 - [Ontwerp een responsive site met Figma](https://www.figma.com)
 - [Mobile Hamburger Menu](https://www.w3schools.com/howto/howto_js_mobile_navbar.asp)
