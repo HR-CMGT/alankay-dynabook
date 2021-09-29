@@ -72,6 +72,7 @@ Semantic tags:
 ## HTML LES 3
 
 - Inhoud blog in orde maken voor Techniek Filosofie
+- Herhaling uploaden naar Github Pages
 
 ### Responive, accessible
 
