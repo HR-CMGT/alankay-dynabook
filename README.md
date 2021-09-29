@@ -74,7 +74,7 @@ Semantic tags:
 - Inhoud blog in orde maken voor Techniek Filosofie
 - Herhaling uploaden naar Github Pages
 
-### Responive, accessible
+### Responsive, accessible
 
 - Meta viewport tag
 - Dark Mode
