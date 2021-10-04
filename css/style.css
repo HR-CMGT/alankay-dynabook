@@ -227,5 +227,7 @@ footer {
 /* dark color scheme */
 
 @media (prefers-color-scheme: dark) {
-    body {}
+    body {
+        background-color: rgb(55, 121, 220);
+    }
 }
