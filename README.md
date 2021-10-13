@@ -115,5 +115,4 @@ Semantic tags:
 - Gebruik [Font Awesome](https://fontawesome.com) voor Icons
 - [Dark Mode toevoegen aan je site](https://youtu.be/6YrOGKmGTCY)
 - [Designing in the Browser](https://youtube.com/playlist?list=PLNYkxOF6rcIDI0QtJvW6vKonTxn6azCsD)
-- [Online tool for designing your interface](https://www.figma.com)
 - [Javascript wizardry: fade in bij scrolling met de intersection observer](https://dev.to/jslim/fading-up-sections-using-intersection-observer-3fhj)
