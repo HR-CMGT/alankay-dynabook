@@ -94,7 +94,7 @@ Semantic tags:
 <br>
 <br>
 
-## Links for fun and profit
+## Links for learning HTML and CSS
 
 - [Startcode voor een leeg HTML project](https://github.com/HR-CMGT/html-startproject/)
 - [Basis CSS](https://www.w3schools.com/cssref/css_default_values.asp) van elementen bekijken.
@@ -114,4 +114,6 @@ Semantic tags:
 - [Social Media Meta Tags](https://www.kontentino.com/blog/social-media-meta-tags-a-complete-guide/)
 - Gebruik [Font Awesome](https://fontawesome.com) voor Icons
 - [Dark Mode toevoegen aan je site](https://youtu.be/6YrOGKmGTCY)
+- [Designing in the Browser](https://youtube.com/playlist?list=PLNYkxOF6rcIDI0QtJvW6vKonTxn6azCsD)
+- [Online tool for designing your interface](https://www.figma.com)
 - [Javascript wizardry: fade in bij scrolling met de intersection observer](https://dev.to/jslim/fading-up-sections-using-intersection-observer-3fhj)
