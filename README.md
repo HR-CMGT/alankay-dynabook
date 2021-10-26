@@ -94,25 +94,28 @@ Semantic tags:
 <br>
 <br>
 
-## Links for learning HTML and CSS
+# HTML en CSS
 
 - [Startcode voor een leeg HTML project](https://github.com/HR-CMGT/html-startproject/)
-- [Basis CSS](https://www.w3schools.com/cssref/css_default_values.asp) van elementen bekijken.
+- [Default CSS van html tags](https://www.w3schools.com/cssref/css_default_values.asp)
 - [W3 HTML Validator](https://validator.w3.org)
 - [Semantic HTML tags](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - [Learn CSS](https://web.dev/learn/css/)
-- [Dark Mode](https://css-tricks.com/dark-modes-with-css/)
+- [Test je site op verschillende devices met Responsively](https://responsively.app)
+- [Overheidsrichtlijnen voor toegankelijkheid](https://digitoegankelijk.nl)
+- [Ontwerp een responsive site met Figma](https://www.figma.com)
+
+# Tips & Tricks
+
+- [Dark Mode](https://css-tricks.com/dark-modes-with-css/) en [📺 tutorial](https://youtu.be/6YrOGKmGTCY)
 - [Image Caption](https://www.w3schools.com/tags/tag_figcaption.asp)
 - [Image Object Fit](https://www.w3schools.com/css/css3_object-fit.asp)
 - [Flex Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Media Query](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
 - [Sticky Navbar](https://markoskon.com/fixed-navbar-on-top-with-position-sticky/)
-- [Test je site op verschillende devices met Responsively](https://responsively.app)
-- [Ontwerp een responsive site met Figma](https://www.figma.com)
 - [Mobile Hamburger Menu](https://www.w3schools.com/howto/howto_js_mobile_navbar.asp)
 - [SEO Meta Tags](https://www.searchenginewatch.com/2018/04/04/a-quick-and-easy-guide-to-meta-tags-in-seo/)
 - [Social Media Meta Tags](https://www.kontentino.com/blog/social-media-meta-tags-a-complete-guide/)
 - Gebruik [Font Awesome](https://fontawesome.com) voor Icons
-- [Dark Mode toevoegen aan je site](https://youtu.be/6YrOGKmGTCY)
 - [Designing in the Browser](https://youtube.com/playlist?list=PLNYkxOF6rcIDI0QtJvW6vKonTxn6azCsD)
-- [Javascript wizardry: fade in bij scrolling met de intersection observer](https://dev.to/jslim/fading-up-sections-using-intersection-observer-3fhj)
+- [Javascript: reageren op bij scrolling](https://dev.to/jslim/fading-up-sections-using-intersection-observer-3fhj)
