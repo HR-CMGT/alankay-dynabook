@@ -107,6 +107,7 @@ Semantic tags:
 
 # Tips & Tricks
 
+- [Lazy Loading](https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading)
 - [Dark Mode](https://css-tricks.com/dark-modes-with-css/) en [📺 tutorial](https://youtu.be/6YrOGKmGTCY)
 - [Image Caption](https://www.w3schools.com/tags/tag_figcaption.asp)
 - [Image Object Fit](https://www.w3schools.com/css/css3_object-fit.asp)
